@@ -1,4 +1,7 @@
-# A* Path Finding Algorithm for 2D Grid World
+## EX NO:04
+## DATE:17/5/22
+
+# <p align="center">A* Path Finding Algorithm for 2D Grid World</p>
 ## AIM
 
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
@@ -22,6 +25,10 @@ Build a 2D grid world with initial state , goal state and obstacles:
 
 
 ## PROGRAM
+```
+Developed BY: SRI HARISH M
+Register Number:212220230047
+```
 ```
 %matplotlib inline
 import matplotlib.pyplot as plt
